@@ -1,0 +1,14 @@
+
+.hello {
+  color: blue;
+}
+.webcam {
+  height:20vh;
+  width: 40vw;
+  border: medium solid red;
+}
+.button {
+  width: 130px;
+  height: 50px;
+  background-color: antiquewhite;
+}
